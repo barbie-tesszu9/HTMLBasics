@@ -1,0 +1,22 @@
+#theresa {
+  color: brown;
+  font-size: 100px;
+  background-color: cornflowerblue;
+}
+table {
+  background-color: greenyellow;
+}
+
+li {
+  margin: 50px;
+  background-color: rgb(223, 75, 124);
+  padding: 10px;
+  border: 5px blue;
+}
+.form-control {
+  background-color: chartreuse;
+  border: 5px blue;
+}
+body {
+  background-color: pink;
+}
